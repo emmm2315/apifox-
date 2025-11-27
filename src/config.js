@@ -1,0 +1,1 @@
+export const ApiBaseUrl = 'https://m1.apifoxmock.com/m1/7446918-7181012-default'
